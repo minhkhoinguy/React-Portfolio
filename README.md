@@ -79,7 +79,7 @@ The following image shows the web application's appearance:
 [MIT License](LICENSE)
 
 ## Link
-[Github](https://github.com/minhkhoinguy/)
+[Github](https://github.com/minhkhoinguy/React-Portfolio)
 
 [Deploy](https://mkn-portpolio.herokuapp.com/)
 
