@@ -8,10 +8,10 @@
 
 }
 .fa {
-    color: black;
+    color: white;
     margin: 0 10px 0 10px;
     border-radius: 4px;
-    box-shadow: 3px 3px darkorange;
+    box-shadow: 3px 3px black;
 }
 
 .fa:hover{
