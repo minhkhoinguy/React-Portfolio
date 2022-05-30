@@ -14,14 +14,15 @@
     border-radius: 10px 0 10px 0;
 }
 
-.myproject h3 {
+.myproject a {
     color: black;
     text-decoration: none;
     text-shadow: 1px 1px rgba(255, 255, 255, 0.8);
     font-family: 'Pacifico', cursive;
 }
-.myproject h3:hover{
+.myproject a:hover{
     text-shadow: 2px 2px darkorange;
+    color: black;
 }
 
 @media screen and (max-width: 1300px){
