@@ -57,7 +57,8 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 ## Mock-Up
 The following image shows the web application's appearance:
 
-<img src="./pictures/testingImage.gif">
+<img src="./src/assets/ReactPortpolio_Main.gif">
+<img src="./src/assets/ReactPortpolio_project.gif">
 
 ## Tech
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
