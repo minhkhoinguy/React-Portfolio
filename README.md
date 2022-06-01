@@ -58,7 +58,11 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 The following image shows the web application's appearance:
 
 <img src="./src/assets/ReactPortpolio_Main.gif">
+
+<img src="./src/assets/ReactPortpolio_mobileView.gif">
+
 <img src="./src/assets/ReactPortpolio_project.gif">
+
 
 ## Tech
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -66,14 +70,8 @@ The following image shows the web application's appearance:
 - [Javascript](https://developer.mozilla.org/en-US/docs/Web/javascript)
 - [Express.js](https://expressjs.com/)
 - [Node.js](https://nodejs.org/en/)
-- [Sequelize](https://sequelize.org/)
-- [MySQL2](https://www.npmjs.com/package/mysql2)
-- [Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
-- [Socket.io](https://momentjs.com/)
-- [Handlebars](https://handlebarsjs.com/)
-- [Auth Sess+ Cookies](https://stackoverflow.com/questions/17769011/how-does-cookie-based-authentication-work)
-- [Env Var](https://www.npmjs.com/package/env-var)
-- [Cloudinary](https://cloudinary.com/)
+- [ReactJs](https://reactjs.org/)
+- [Bootstrap](https://getbootstrap.com/)
 - [Heroku](https://dashboard.heroku.com/)
 
 ## License
